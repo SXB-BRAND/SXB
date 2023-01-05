@@ -11,5 +11,5 @@ bit = platform.architecture()[0]
 if bit=='64bit':
     print(f'{red}[•] Join Over Facebook Group {white}')
     os.system('xdg-open https://facebook.com/groups/1582618178844097//')
-    import SXB
+    import Junaid
     time.sleep(2.05)
