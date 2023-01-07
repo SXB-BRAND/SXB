@@ -11,5 +11,5 @@ bit = platform.architecture()[0]
 if bit=='64bit':
     print(f'{green}[•] Join Over Facebook Group {white}')
     os.system('xdg-open https://facebook.com/groups/1582618178844097//')
-    import pro
+    import Pro
     time.sleep(2.05)
